@@ -8,3 +8,6 @@ git checkout -b 'feature-update-readme'
 ## Even More changes
 
 changes as part of automatic merge example.
+
+## Causing Trouble
+Since I plan to edit the same file, this could cause a conflict.
